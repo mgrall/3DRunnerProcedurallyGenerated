@@ -1,0 +1,12 @@
+5.4.3f1:2.8.0.0
+StandaloneWindows
+D:/Programming/Unity/Editor/Data/Managed/UnityEngine.dll
+D:/Programming/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/Programming/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/Programming/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+D:/Programming/Unity/Editor/Data/Managed/UnityEditor.dll
+D:/Programming/Unity/Editor/Data\Managed/Mono.Cecil.dll
+D:\Programming\Unity\Editor\Data\PlaybackEngines\AppleTVSupport\UnityEditor.iOS.Extensions.Common.dll
+D:\Programming\Unity\Editor\Data\PlaybackEngines\AppleTVSupport\UnityEditor.iOS.Extensions.Xcode.dll
+D:/Programming/Unity/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
+D:/Programming/Unity/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll
